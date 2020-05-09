@@ -1,4 +1,4 @@
-# R - Language of Data Science - A tutorial
+# R - Language of Data Science: a Tutorial
 
 In this repository, a useful, though short, tutorial of R is provided for beginners and those who are interested 
 to learn about Data Science.
