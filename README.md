@@ -11,3 +11,18 @@ MyVector <- c(1,2,3,4,5)
 ```
 
 where `c` stands for combine and `<-` is assignment operator.
+
+Data types in R is almost similar to any other programming language. There are 
+
+- numerics (integer, single, double): 1, 2.32
+- characters: "HelloWorld"
+- logical: True, False
+- complex: (-1)^(1/2)
+- raw: contains bytes
+
+Data structures in R is also similar to other programming languages but with extra feature. There are
+
+- vectors:
+- Matrix/array:
+- Data frame:
+- List:
